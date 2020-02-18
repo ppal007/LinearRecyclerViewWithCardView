@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RecyclerViewWithCardView</string>
+
+    <string-array name="city_name_list">
+        <item>Dhaka</item>
+        <item>Rangpur</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Barishal</item>
+        <item>Noakhali</item>
+        <item>Mymanshing</item>
+        <item>Bagerhat</item>
+        <item>Nilphamary</item>
+        <item>Jaldhaka</item>
+        <item>Parbotipur</item>
+        <item>Nikunjo</item>
+        <item>Khilkhet</item>
+        <item>Mohakhali</item>
+        <item>Uttara</item>
+        <item>Banani</item>
+        <item>Gulshan</item>
+        <item>Dhanmondi</item>
+    </string-array>
+</resources>
